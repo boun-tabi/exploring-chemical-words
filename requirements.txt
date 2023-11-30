@@ -1,0 +1,6 @@
+tokenizers
+pandas
+rdkit 
+scikit-learn
+streamlit
+mols2grid

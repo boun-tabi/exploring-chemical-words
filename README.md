@@ -54,11 +54,11 @@ python analyzer.py --dataset [dataset_name] --vocabulary [vocabulary_name]
 
 ### Streamlit app
 Launch an interactive Streamlit application illustrating the key chemical words for particular targets along with associated binders and drugs.
-
-![](SS1.png)
-![](SS2.png)
-![](SS3.png)
 ```bash
 streamlit run app.py
 ```
+![](SS1.png)
+![](SS2.png)
+![](SS3.png)
+
 

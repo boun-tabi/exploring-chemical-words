@@ -62,15 +62,13 @@ streamlit run app.py
 
 ```
 @article{https://doi.org/10.1002/minf.202300249,
-author = {Temizer, Asu Busra and Uludoğan, Gökçe and Özçelik, Rıza and Koulani, Taha and Ozkirimli, Elif and Ulgen, Kutlu O. and Karali, Nilgun and Özgür, Arzucan},
-title = {Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties},
-journal = {Molecular Informatics},
-doi = {https://doi.org/10.1002/minf.202300249},
-url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300249},
-eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202300249},
+    author = {Temizer, Asu Busra and Uludoğan, Gökçe and Özçelik, Rıza and Koulani, Taha and Ozkirimli, Elif and Ulgen, Kutlu O. and Karali, Nilgun and Özgür, Arzucan},
+    title = {Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties},
+    journal = {Molecular Informatics},
+    doi = {https://doi.org/10.1002/minf.202300249},
+    url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300249},
+    eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202300249},
 }
-
-
 ```
 
 

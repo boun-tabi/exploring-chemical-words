@@ -3,7 +3,7 @@
 ![](graphicalabstract.png)
 
 ## About
-This repository contains code for "Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties". The accompanying materials are available in Zenodo DOI.
+This repository contains code for "Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties", published in _Molecular Informatics_ [![DOI](https://img.shields.io/badge/DOI-10.1002/minf.202300249-red)](https://doi.org/10.1002/minf.20230024). The accompanying materials are available in Zenodo DOI.
 
 
 ## Installation
@@ -57,8 +57,20 @@ Launch an interactive Streamlit application illustrating the key chemical words 
 ```bash
 streamlit run app.py
 ```
-![](SS1.png)
-![](SS2.png)
-![](SS3.png)
+
+## Citation
+
+```
+@article{https://doi.org/10.1002/minf.202300249,
+author = {Temizer, Asu Busra and Uludoğan, Gökçe and Özçelik, Rıza and Koulani, Taha and Ozkirimli, Elif and Ulgen, Kutlu O. and Karali, Nilgun and Özgür, Arzucan},
+title = {Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties},
+journal = {Molecular Informatics},
+doi = {https://doi.org/10.1002/minf.202300249},
+url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300249},
+eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202300249},
+}
+
+
+```
 
 

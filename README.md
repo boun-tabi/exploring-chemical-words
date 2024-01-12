@@ -1,4 +1,4 @@
-# Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties
+# Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties 
 
 ![](graphicalabstract.png)
 

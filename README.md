@@ -3,7 +3,8 @@
 ![](graphicalabstract.png)
 
 ## About
-This repository contains code for "Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties", published in _Molecular Informatics_ [![DOI](https://img.shields.io/badge/DOI-10.1002/minf.202300249-red)](https://doi.org/10.1002/minf.20230024). The accompanying materials are available in Zenodo DOI.
+This repository contains code for "Exploring Data-Driven Chemical SMILES Tokenization Approaches to Identify Key Protein-Ligand Binding Moieties", published in _Molecular Informatics_ [![DOI](https://img.shields.io/badge/DOI-10.1002/minf.202300249-red)](https://doi.org/10.1002/minf.20230024). The accompanying materials are available in Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10245264.svg)](https://doi.org/10.5281/zenodo.10245264).
+
 
 
 ## Installation
